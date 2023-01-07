@@ -1,0 +1,15 @@
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\bin\Debug\net6.0\03Methotlar.exe
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\bin\Debug\net6.0\03Methotlar.deps.json
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\bin\Debug\net6.0\03Methotlar.runtimeconfig.json
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\bin\Debug\net6.0\03Methotlar.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\bin\Debug\net6.0\03Methotlar.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\03Methotlar.csproj.AssemblyReference.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\03Methotlar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\03Methotlar.AssemblyInfoInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\03Methotlar.AssemblyInfo.cs
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\03Methotlar.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\03Methotlar.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\refint\03Methotlar.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\03Methotlar.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\03Methotlar.genruntimeconfig.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\03Methotlar\obj\Debug\net6.0\ref\03Methotlar.dll
