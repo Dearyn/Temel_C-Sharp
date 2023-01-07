@@ -1,0 +1,15 @@
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\bin\Debug\net6.0\08ClasslarProperty.exe
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\bin\Debug\net6.0\08ClasslarProperty.deps.json
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\bin\Debug\net6.0\08ClasslarProperty.runtimeconfig.json
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\bin\Debug\net6.0\08ClasslarProperty.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\bin\Debug\net6.0\08ClasslarProperty.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\08ClasslarProperty.csproj.AssemblyReference.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\08ClasslarProperty.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\08ClasslarProperty.AssemblyInfoInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\08ClasslarProperty.AssemblyInfo.cs
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\08ClasslarProperty.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\08ClasslarProperty.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\refint\08ClasslarProperty.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\08ClasslarProperty.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\08ClasslarProperty.genruntimeconfig.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\08ClasslarProperty\obj\Debug\net6.0\ref\08ClasslarProperty.dll
