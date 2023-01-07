@@ -1,0 +1,15 @@
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\bin\Debug\net6.0\07Classlar.exe
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\bin\Debug\net6.0\07Classlar.deps.json
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\bin\Debug\net6.0\07Classlar.runtimeconfig.json
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\bin\Debug\net6.0\07Classlar.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\bin\Debug\net6.0\07Classlar.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\07Classlar.csproj.AssemblyReference.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\07Classlar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\07Classlar.AssemblyInfoInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\07Classlar.AssemblyInfo.cs
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\07Classlar.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\07Classlar.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\refint\07Classlar.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\07Classlar.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\07Classlar.genruntimeconfig.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\07Classlar\obj\Debug\net6.0\ref\07Classlar.dll
