@@ -1,0 +1,15 @@
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\bin\Debug\net6.0\13StaticClassVeMethodlar.exe
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\bin\Debug\net6.0\13StaticClassVeMethodlar.deps.json
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\bin\Debug\net6.0\13StaticClassVeMethodlar.runtimeconfig.json
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\bin\Debug\net6.0\13StaticClassVeMethodlar.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\bin\Debug\net6.0\13StaticClassVeMethodlar.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\13StaticClassVeMethodlar.csproj.AssemblyReference.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\13StaticClassVeMethodlar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\13StaticClassVeMethodlar.AssemblyInfoInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\13StaticClassVeMethodlar.AssemblyInfo.cs
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\13StaticClassVeMethodlar.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\13StaticClassVeMethodlar.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\refint\13StaticClassVeMethodlar.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\13StaticClassVeMethodlar.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\13StaticClassVeMethodlar.genruntimeconfig.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\13StaticClassVeMethodlar\obj\Debug\net6.0\ref\13StaticClassVeMethodlar.dll
