@@ -1,0 +1,15 @@
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\bin\Debug\net6.0\02SartBloklari.exe
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\bin\Debug\net6.0\02SartBloklari.deps.json
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\bin\Debug\net6.0\02SartBloklari.runtimeconfig.json
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\bin\Debug\net6.0\02SartBloklari.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\bin\Debug\net6.0\02SartBloklari.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\02SartBloklari.csproj.AssemblyReference.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\02SartBloklari.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\02SartBloklari.AssemblyInfoInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\02SartBloklari.AssemblyInfo.cs
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\02SartBloklari.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\02SartBloklari.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\refint\02SartBloklari.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\02SartBloklari.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\02SartBloklari.genruntimeconfig.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\02SartBloklari\obj\Debug\net6.0\ref\02SartBloklari.dll
