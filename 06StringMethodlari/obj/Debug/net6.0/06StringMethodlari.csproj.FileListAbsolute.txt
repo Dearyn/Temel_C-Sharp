@@ -1,0 +1,15 @@
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\bin\Debug\net6.0\06StringMethodlari.exe
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\bin\Debug\net6.0\06StringMethodlari.deps.json
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\bin\Debug\net6.0\06StringMethodlari.runtimeconfig.json
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\bin\Debug\net6.0\06StringMethodlari.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\bin\Debug\net6.0\06StringMethodlari.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\06StringMethodlari.csproj.AssemblyReference.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\06StringMethodlari.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\06StringMethodlari.AssemblyInfoInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\06StringMethodlari.AssemblyInfo.cs
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\06StringMethodlari.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\06StringMethodlari.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\refint\06StringMethodlari.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\06StringMethodlari.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\06StringMethodlari.genruntimeconfig.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\06StringMethodlari\obj\Debug\net6.0\ref\06StringMethodlari.dll
