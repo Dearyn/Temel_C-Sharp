@@ -1,0 +1,15 @@
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\bin\Debug\net6.0\08_Ornekler.exe
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\bin\Debug\net6.0\08_Ornekler.deps.json
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\bin\Debug\net6.0\08_Ornekler.runtimeconfig.json
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\bin\Debug\net6.0\08_Ornekler.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\bin\Debug\net6.0\08_Ornekler.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\08_Ornekler.csproj.AssemblyReference.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\08_Ornekler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\08_Ornekler.AssemblyInfoInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\08_Ornekler.AssemblyInfo.cs
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\08_Ornekler.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\08_Ornekler.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\refint\08_Ornekler.dll
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\08_Ornekler.pdb
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\08_Ornekler.genruntimeconfig.cache
+E:\Visual Studio Kurs\HaftaSonuKurs\08_Ornekler\obj\Debug\net6.0\ref\08_Ornekler.dll
